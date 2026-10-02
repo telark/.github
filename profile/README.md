@@ -2,7 +2,9 @@
 
 **A protection gate for your Kubernetes applications.**
 
-Decide what can change an application, and when. A protection plan blocks the changes you name, for exactly the window you set, and Kyverno refuses them at admission. Telark also records every change that got through, with a snapshot you can roll back to, and tells you why an app broke. Self-hosted, in your cluster.
+Decide what can change an application, and when.
+Telark holds the line during releases and maintenance windows, shows every change that got through,
+and tells you why an app broke. Self-hosted, in your cluster.
 
 ## Repositories
 
