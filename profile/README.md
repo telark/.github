@@ -1,6 +1,8 @@
-# Telark
+<p align="center">
+  <img src="assets/telark-banner.svg" alt="Telark" width="320">
+</p>
 
-**A protection gate for your Kubernetes applications.**
+<h3 align="center">A protection gate for your Kubernetes applications</h3>
 
 Decide what can change an application, and when.
 Telark holds the line during releases and maintenance windows, shows every change that got through,
