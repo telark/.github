@@ -4,7 +4,7 @@
 
 <h3 align="center">A protection gate for your Kubernetes applications</h3>
 
-Decide what can change an application, and when.
+Decide what can change an application, and when. People, pipelines and AI agents all pass the same gate.
 Telark holds the line during releases and maintenance windows, shows every change that got through,
 and tells you why an app broke. Self-hosted, in your cluster.
 
